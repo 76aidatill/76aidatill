@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @76aidatill
-- 👀 I’m interested in Differential Equations and Statistics
+- 👋 Hi, I’m Aidan Tillman, @76aidatill
+- 👀 I’m interested in modeling using Differential Equations of any kind, stochastic, partial, etc
 - 🌱 I’m currently learning about Numerical Analysis
-- 💞️ I’m looking to collaborate on classification projects
+- 💞️ I’m looking to collaborate on classification and scientific computation projects
 - 😄 Pronouns: he/him
 
 <!---
