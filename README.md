@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aidan Tillman, @76aidatill
 - 👀 I’m interested in modeling using Differential Equations of any kind, stochastic, partial, etc
-- 🌱 I’m currently learning about Numerical Analysis
-- 💞️ I’m looking to collaborate on classification and scientific computation projects
+- 🌱 I’m currently working on projects related to modeling with Gene Regulatory Networks and Chemical Reaction Networks
+- 💞️ I’m looking to collaborate on projects using Reaction-Diffusion approaches
 - 😄 Pronouns: he/him
 
 <!---
