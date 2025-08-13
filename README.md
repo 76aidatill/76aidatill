@@ -1,6 +1,4 @@
 # 👋 Hi, I’m Aidan Tillman, @76aidatill
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{76aidatill}/count.svg)
 
 ## Bio
 - 🥽 BS in Bioengineering at Northeastern University, Class of 2025
