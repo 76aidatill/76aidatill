@@ -17,6 +17,7 @@ Jennings, T., **Tillman, A.**, Mukasa, D. et al. Measurement and Assessment of H
 
 **Tillman, A.**, Liu Y., Counting the Eigenvalues of the Laplace Operator on Some Convex Domains. *SIAM Undergraduate Research Online* (2025). [https://doi.org/10.1137/24S1681069](https://doi.org/10.1137/24S1681069)
 
+**Tillman, A.**, Ramirez, D., Lu, M. sRACIPE 2.0: a systems biology circuit modeling toolkit for random circuit perturbation. *Bioinformatics* (2026). [https://doi.org/10.1093/bioinformatics/btag019](https://doi.org/10.1093/bioinformatics/btag019)
 <!---
 76aidatill/76aidatill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
